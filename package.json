@@ -1,0 +1,22 @@
+{
+    "name": "c-g-blog",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bharanidharan1999/c-g-blog.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bharanidharan1999/c-g-blog/issues"
+    },
+    "homepage": "https://github.com/bharanidharan1999/c-g-blog#index",
+    "dependencies": {
+        "firebase": "^8.6.1"
+    }
+}
